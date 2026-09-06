@@ -1,0 +1,7 @@
+SCRUM-6: User login with email and password
+
+Feature:
+- User enters email and password.
+- System validates the credentials.
+- Successful credentials allow login.
+- Invalid credentials display an error message.
