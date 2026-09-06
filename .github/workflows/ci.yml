@@ -2,9 +2,9 @@ name: CI Pipeline
 
 on:
   push:
-    branches: [ main ]
+    branches: [ SCRUM-6-User-login-with-email-and-password ]
   pull_request:
-    branches: [ main ]
+    branches: [ SCRUM-6-User-login-with-email-and-password ]
 
 jobs:
   build-and-test:
